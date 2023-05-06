@@ -1,0 +1,28 @@
+.timer{
+    margin-left: 30rem;
+    margin-top: 1.8rem;
+    font-size: 8rem;
+}
+
+.inputdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 5rem;
+}
+
+#time{
+    width: 33.5rem;
+    height: 2rem;
+}
+
+.timelabel{
+    font-size: 4rem;
+}
+
+#EnterButton{
+    height: 2rem;
+    width: 4rem;
+}
