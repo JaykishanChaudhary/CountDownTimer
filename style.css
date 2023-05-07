@@ -1,5 +1,5 @@
-.timer{
-    margin-left: 30rem;
+#current-time{
+    margin-left: 23rem;
     margin-top: 1.8rem;
     font-size: 8rem;
 }
@@ -13,7 +13,7 @@
     margin-top: 5rem;
 }
 
-#time{
+#timeCount{
     width: 33.5rem;
     height: 2rem;
 }
